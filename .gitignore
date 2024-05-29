@@ -1,0 +1,10 @@
+.idea/**/workspace.xml
+.idea/
+.DS_Store
+/target/
+/allure-results/
+/allure-report/
+.idea
+.allure
+*.iws
+*.iml

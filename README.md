@@ -8,9 +8,9 @@
   
 - [<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="24"/>](https://github.com/jhonjhon95) **GitHub:** [Perfil GitHub](https://github.com/jhonjhon95)
 
-# Desafio DB: Testando API
+# Testes de API com JAVA
 
-Projeto para garantir cobertura de testes para a API "viacep"
+Projeto para garantir cobertura de testes de API
 
 ##  Requisitos para execução
 * Java 11+ JDK instalado
